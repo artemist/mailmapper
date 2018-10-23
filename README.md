@@ -1,7 +1,7 @@
 # MailMapper
 
 Currently, git can't remove names from committers in history. This can be a problem for trans people, who have previous names doxxed,
-companies, who may need to remove committer names for GDPR compliance, and anyone who changes there name. Git provides a tool for changing names,
+companies, who may need to remove committer names for GDPR compliance, and anyone who changes their name. Git provides a tool for changing names,
 called a mailmap, which lets one rewrite what names and emails are displayed in shortlog and optionally log. However, the names are still
 stored in the history and mailmaps must be stored per machine or per repository.
 
